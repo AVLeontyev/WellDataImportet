@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WellDataImportet_Tests/WellDataImportet_Tests.csproj" />
+  <Project Path="WellDataImportet_WPF/WellDataImportet_WPF.csproj" />
+</Solution>

@@ -1,0 +1,14 @@
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\bin\Debug\WellDataImportet_WPF.exe.config
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\bin\Debug\WellDataImportet_WPF.exe
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\bin\Debug\WellDataImportet_WPF.pdb
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\obj\Debug\WellDataImportet_WPF.csproj.AssemblyReference.cache
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\obj\Debug\MainWindow.baml
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\obj\Debug\App.g.cs
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\obj\Debug\WellDataImportet_WPF_MarkupCompile.cache
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\obj\Debug\WellDataImportet_WPF.g.resources
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\obj\Debug\WellDataImportet_WPF.Properties.Resources.resources
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\obj\Debug\WellDataImportet_WPF.csproj.GenerateResource.cache
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\obj\Debug\WellDataImportet_WPF.csproj.CoreCompileInputs.cache
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\obj\Debug\WellDataImportet_WPF.exe
+C:\Users\Ngasta\source\repos\WellDataImportet_WPF\WellDataImportet_WPF\obj\Debug\WellDataImportet_WPF.pdb
